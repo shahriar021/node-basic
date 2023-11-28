@@ -1,0 +1,14 @@
+{
+  "name": "skill_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahriar",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.8"
+  }
+}
